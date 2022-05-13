@@ -1,0 +1,133 @@
+Plot	CODE	CHTpre	CHTpost	Action
+P1	LOLA	4.31	6.20	Fire
+P2	LOLA	6.19	6.19	Fire
+P3	LOLA	4.39	4.37	Fire
+P4	LOLA	6.05	6.01	Fire
+P5	LOLA	3.40	3.38	Fire
+P6	LOLA	4.38	4.35	Fire
+P7	LOLA	3.16	5.12	Fire
+P8	LOLA	6.01	7.07	Fire
+Pol1	POL	4.63	4.88	Fire
+Pol2	POL	4.68	8.56	Fire
+Pol3	POL	3.93	5.57	Fire
+REB1	REB	3.80	4.77	Fire
+REB2	REB	3.76	4.95	Fire
+REB3	REB	5.57	6.92	Fire
+PA1	PA	6.03	5.88	Fire
+PA2	PA	3.82	4.82	Fire
+PA3	PA	3.27	3.29	Fire
+IN1	IN	3.69	4.06	Fire
+IN2	IN	2.90	6.92	Fire
+IN3	IN	2.28	3.49	Fire
+D1T1	WC1D	9.12	10.72	Competition
+D1T2	WC1D	5.03	7.02	Competition
+D1T3	WC1D	6.21	7.16	Competition
+D2T1	NC1D	8.60	10.69	Competition
+D2T2	NC1D	6.68	9.75	Competition
+D2T3	NC1D	6.94	8.77	Competition
+D2T4	NC1D	6.55	7.60	Competition
+D3T1	SC1D	10.31	10.76	Competition
+D3T2	WC1D	5.84	9.46	Competition
+D3T3	WC1D	7.59	10.24	Competition
+D4T1	EC1D	9.01	11.51	Competition
+D4T2	SC1D	9.01	10.42	Competition
+D5T1	EC1D	5.72	8.08	Competition
+D5T2	NC1D	6.60	10.04	Competition
+D6T1	NC1D	5.84	7.11	Competition
+D6T2	NC1D	7.45	10.90	Competition
+D6T3	NC1D	7.62	10.39	Competition
+D6T4	NC1D	9.36	11.34	Competition
+D6T5	NC1D	6.82	7.60	Competition
+D6T6	EC1D	7.90	9.76	Competition
+C2P1	BALSA	-1.07	2.62	Mine Tailing
+C2P2	BALSA	-1.05	1.70	Mine Tailing
+C2P3	BALSA	-1.99	0.78	Mine Tailing
+C2P4	BALSA	-1.99	1.67	Mine Tailing
+C2P5	BALSA	-1.99	1.67	Mine Tailing
+C2P6	BALSA	-2.00	1.66	Mine Tailing
+C2P7	BALSA	-2.00	1.66	Mine Tailing
+C2P8	BALSA	-2.00	-1.07	Mine Tailing
+C2P9	BALSA2	1.72	1.74	Mine Tailing
+C2P10	BALSA2	-0.96	-0.94	Mine Tailing
+C2P11	BALSA2	-1.97	2.60	Mine Tailing
+C2P12	BALSA2	-0.14	-0.12	Mine Tailing
+C2P13	BALSA2	-1.98	1.68	Mine Tailing
+C2P14	BALSA2	-1.95	-0.11	Mine Tailing
+C3RP1	NC3D	3.49	6.22	Lim. seed reception
+C3RP2	NC3D	7.19	6.28	Lim. seed reception
+C3RP3	NC3D	3.33	5.15	Lim. seed reception
+C3RP4	NC3D	6.39	6.39	Lim. seed reception
+C3RP5	WC3D	3.31	6.04	Lim. seed reception
+C3RP6	WC3D	4.00	5.82	Lim. seed reception
+C3RP9	WC3D	4.15	5.97	Lim. seed reception
+C3RP12	WC3D	4.49	6.31	Lim. seed reception
+C3RP13	WC3D	4.60	7.33	Lim. seed reception
+C3RP14	WC3D	4.48	4.48	Lim. seed reception
+C3RP15	WC3D	4.62	6.44	Lim. seed reception
+C3RP17	NC3D	3.24	5.97	Lim. seed reception
+C3RP31	NC3D	4.62	6.44	Lim. seed reception
+C3RP33	WC3D	4.51	6.33	Lim. seed reception
+C3RP35b	SC3D	3.53	5.35	Lim. seed reception
+C3RP36	WC3D	4.40	6.22	Lim. seed reception
+C3RP39	WC3D	4.31	7.04	Lim. seed reception
+C3RP40b	WC3D	3.22	5.04	Lim. seed reception
+C3RP21	SC3D	4.02	6.75	Lim. seed reception
+C3RP22a	EC3D	4.59	6.41	Lim. seed reception
+C3RP23a	EC3D	4.59	7.32	Lim. seed reception
+C3RP24a	EC3D	4.59	6.41	Lim. seed reception
+C3RP26	EC3D	4.64	7.37	Lim. seed reception
+C3RP27a	EC3D	4.51	7.24	Lim. seed reception
+C3RP28a	WC3D	4.33	6.15	Lim. seed reception
+C3RP29a	SC3D	4.62	7.35	Lim. seed reception
+RC601	C6Z1	-0.13	4.44	Compacted Soil
+RC602	C6Z1	0.01	4.58	Compacted Soil
+RC603	C6Z1	-2.00	3.46	Compacted Soil
+RC604	C6Z1	-0.93	-0.93	Compacted Soil
+RC605	C6Z1	-1.95	-1.90	Compacted Soil
+RC606	C6Z1	0.34	0.24	Compacted Soil
+C6REB	C6Z2	-1.81	0.93	Compacted Soil
+C6PA1	C6Z2	-0.86	1.89	Compacted Soil
+C6PA2	C6Z2	-1.09	4.39	Compacted Soil
+C6CENIZAS	C6Z2	-1.99	3.47	Compacted Soil
+NE1	EC8	4.84	5.94	Overgrazing
+NE2	EC8	5.49	5.61	Overgrazing
+NE3	EC8	3.61	4.71	Overgrazing
+NE4	WC8	7.11	8.30	Overgrazing
+NO1	EC8	1.66	2.86	Overgrazing
+NO2	EC8	5.31	6.50	Overgrazing
+NO3	EC8	0.92	1.09	Overgrazing
+NO4	EC8	4.36	5.48	Overgrazing
+NO5	WC8	4.26	5.40	Overgrazing
+NO6	WC8	5.13	6.21	Overgrazing
+SE1	EC8	4.18	5.34	Overgrazing
+SE2	EC8	6.28	8.38	Overgrazing
+SE3	EC8	3.19	4.41	Overgrazing
+SE4	WC8	1.66	2.73	Overgrazing
+SO1	EC8	1.68	2.77	Overgrazing
+SO2	EC8	6.18	8.32	Overgrazing
+SO3	EC8	4.37	5.57	Overgrazing
+SO4	EC8	2.81	3.95	Overgrazing
+SO5	WC8	5.33	7.48	Overgrazing
+SO6	WC8	5.12	7.17	Overgrazing
+B-CH-01	Invasive species1	-2.18	3.28	Invasive species
+B-CH-02	Invasive species1	-2.36	2.19	Invasive species
+B-CH-03	Invasive species1	-2.45	-0.36	Invasive species
+B-CH-04	Invasive species1	-2.73	2.82	Invasive species
+B-CH-05	Invasive species1	-1.27	3.46	Invasive species
+B-CH-06	Invasive species1	-1.91	4.37	Invasive species
+B-CH-07	Invasive species1	-1.73	0.73	Invasive species
+B-CH-08	Invasive species1	-1.82	4.37	Invasive species
+B-CH-09	Invasive species1	-2.73	3.00	Invasive species
+CR-ZM-03	Invasive species2	-3.00	-1.73	Invasive species
+CR-ZM-02_A	Invasive species2	-3.00	-0.73	Invasive species
+CR-ZM-02_B	Invasive species2	-3.00	-1.64	Invasive species
+CR-ZM-04	Invasive species2	-2.82	-2.82	Invasive species
+CR-ZM-01_A	Invasive species2	-2.82	-2.09	Invasive species
+CR-ZM-01_B	Invasive species2	-2.55	-0.91	Invasive species
+CR-ZM-01_C	Invasive species2	-2.73	-1.27	Invasive species
+CR-02	Invasive species2	-2.09	-0.91	Invasive species
+B-CE-02	Invasive species3	-2.09	2.37	Invasive species
+B-CE-04	Invasive species3	-1.27	-0.18	Invasive species
+B-CE-03	Invasive species3	-1.36	2.46	Invasive species
+B-CE-01	Invasive species3	-3.00	-0.27	Invasive species
+B-CE-05	Invasive species3	-3.00	-2.09	Invasive species
